@@ -7,8 +7,8 @@ markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
+github_username: Yeznach
+blog_url: 
 email: jeznachmichal1@gmail.com
 keybase_username: yeznach
 twitter_username: _
